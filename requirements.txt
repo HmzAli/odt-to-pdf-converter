@@ -1,0 +1,1 @@
+https://github.com/mbwk/pyopendoc/tarball/0.4.2
