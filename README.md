@@ -1,1 +1,1 @@
-A script to convert odt file to pdf
+A Converts odt files to pdf
