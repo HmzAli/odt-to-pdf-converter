@@ -2,8 +2,9 @@ A Converts odt files to pdf
 
 ## Usage
 
-1. `pip install requirements.txt`
-2. run `ODT_FILE=ABC_Renewal_COMBO.odt CONTEXT_FILE=context.json python main.py`
+1. clone repo.
+2. `pip install requirements.txt`
+3. run `ODT_FILE=ABC_Renewal_COMBO.odt CONTEXT_FILE=context.json python main.py`
 
 ### ODT_FILE: Path to odt fle
 
