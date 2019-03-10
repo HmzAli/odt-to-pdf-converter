@@ -9,8 +9,8 @@ A Converts odt files to pdf
 ### CONTEXT_FILE: Path to file containing variables info in json format
 
 Context file content sample: 
-```
+`
 {
   'name': 'Hmz',
   'address': 'abc',
-}```
+}`
