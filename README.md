@@ -2,8 +2,8 @@ A Converts odt files to pdf
 
 ## Usage
 
-1. clone repo.
-2. `pip install requirements.txt`
+1. clone repo `clone git@github.com:HmzAli/odt-to-pdf-converter.git`
+2. cd the project folder and run `pip install requirements.txt`
 3. run `ODT_FILE=ABC_Renewal_COMBO.odt CONTEXT_FILE=context.json python main.py`
 
 ### ODT_FILE: Path to odt fle
